@@ -24,3 +24,5 @@ git reset --hard
 git clone lien
 
 git push origin master
+
+git pull origin master
