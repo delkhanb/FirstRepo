@@ -1,0 +1,26 @@
+cmd git:
+
+git init
+
+git add .
+
+git commit -m "message"
+
+git -a -m "message"
+
+git log
+
+
+git checkout SHADuCommit
+
+git checkout master
+
+git revert SHADuCommit
+
+git commit --amend -m "Votre nouveau message"
+
+git reset --hard
+
+git clone lien
+
+git push origin master
